@@ -1,0 +1,23 @@
+*{
+    font-family:Georgia ;
+    margin: 30px
+}
+body{
+    background-color: rgb(105, 122, 122);
+}
+h1{
+    padding: 15px;
+    border: 10px;
+    border-style: dotted;
+    color: rgb(7, 22, 131);
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+
+}
+p{color: rgb(220, 228, 228); text-align: justify;border-radius: 30px;border-style: solid;padding: 10px;border-color: rgb(207, 207, 197);background-color: black;}
+
+img{
+    width: 37%;
+    
+}
